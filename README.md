@@ -1,5 +1,18 @@
 # Text Summarization Project
 
+*Company*: CODETECH IT SOLUTION
+
+*Name*: GOPALSAMY S
+
+*INTERN ID*: CT12JHY
+
+*Domain*: ARTIFICIAL INTELLIAGENCE
+
+*Duration*: 8 Weeks
+
+*Mentor*: NEELA SANTOSH
+
+
 This project implements a text summarization functionality using Natural Language Processing (NLP) techniques. It processes input text to generate a concise summary based on word frequency.
 
 ## Project Structure
